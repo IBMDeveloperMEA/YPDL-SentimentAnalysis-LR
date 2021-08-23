@@ -19,7 +19,8 @@ If you already have IBM Cloud Account then use this link to Log-in to your exist
 # Step 4: 
   Once service is created, it will pop up onn your screen and wait to be initialized. When initialized, click on "Get Started". You will be redirected to Watson Studio also called "Cloud Pak for Data as a Service". 
   
-# Step 4:5 
+# Step 4.5: 
+  Create Object Storage Service
   
   
 # Step 5:
@@ -29,4 +30,5 @@ If you already have IBM Cloud Account then use this link to Log-in to your exist
 
 Onn top you will se "Add to Project +" option, click on it and add "Notebook". Go to "From File". Download notebook called "YPDL-LogisticRegression.ipynb" from here: https://github.com/IBMDeveloperMEA/YPDL-SentimentAnalysis-LR
 
-
+# Step 7: 
+  Load the notebook and run the cells
