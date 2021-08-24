@@ -64,7 +64,9 @@ If you already have IBM Cloud Account then use this link to Log-in to your exist
   
 ## Step 8:
 
-On top you will se "Add to Project +" option, click on it and add "Notebook". Go to "From File". Download notebook called "YPDL-LogisticRegression.ipynb" from here: https://github.com/IBMDeveloperMEA/YPDL-SentimentAnalysis-LR
+On top you will se "Add to Project +" option, click on it and add "Notebook". Go to "From File". Download notebook called "YPDL-LogisticRegression.ipynb" from here: ```https://github.com/IBMDeveloperMEA/YPDL-SentimentAnalysis-LR```
+
+Alternatively, you can also select the option "From URL" and paste the following URL ```https://raw.githubusercontent.com/IBMDeveloperMEA/YPDL-SentimentAnalysis-LR/main/YPDL-LogisticRegression.ipynb```
 
 ## Step 9: 
   Load the notebook and run the cells
