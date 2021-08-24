@@ -85,8 +85,14 @@ Check out https://www.crowdcast.io/e/ypdl-1 to know the proper explanation of th
 
 ## Links to other sessions in Your Path to Deep Learning
 
-25th August - 6PM-8PM (GST) - Identify Handwritten Digits using Convolutional Neural Networks with TensorFlow --> https://www.crowdcast.io/e/ypdl-2
+- 25th August - 6PM-8PM (GST) 
+    -  Identify Handwritten Digits using Convolutional Neural Networks with TensorFlow
+    - https://www.crowdcast.io/e/ypdl-2
 
-30th August - 6PM-8PM (GST) - Language Processing using Recurrent Neural Networks with TensorFlow --> https://www.crowdcast.io/e/ypdl-3
+- 30th August - 6PM-8PM (GST) 
+    -  Language Processing using Recurrent Neural Networks with TensorFlow
+    - https://www.crowdcast.io/e/ypdl-3
 
-1st September - 6PM-8PM (GST) - Personalized Recommendation Engines with TensorFlow --> https://www.crowdcast.io/e/ypdl-4
+- 1st September - 6PM-8PM (GST)
+    -  Personalized Recommendation Engines with TensorFlow
+    - https://www.crowdcast.io/e/ypdl-4
