@@ -83,7 +83,21 @@ Check out https://www.crowdcast.io/e/ypdl-1 to know the proper explanation of th
 
 - Workshop Replay: https://www.crowdcast.io/e/ypdl-1
 
-## Links to other sessions in Your Path to Deep Learning
+
+## Check out the event on other streaming platforms
+- LinkedIn - https://www.linkedin.com/events/yourpathtodeeplearning6828696278394802176/
+
+- Twitch - https://www.twitch.tv/videos/1127044829
+
+- Twitter - https://twitter.com/mridulrb/status/1429806468203618310?s=20
+
+- Periscope - https://www.periscope.tv/mridulrb/1mnGeaAwDEQGX
+
+- YouTube - https://www.youtube.com/watch?v=LwzEZp6a5kk
+
+- Facebook - https://www.facebook.com/100003349938697/videos/260123639315404
+
+## Links to the next sessions in Your Path to Deep Learning
 
 - 25th August - 6PM-8PM (GST) 
     -  Identify Handwritten Digits using Convolutional Neural Networks with TensorFlow
